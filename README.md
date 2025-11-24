@@ -8,3 +8,4 @@ the screenshot of the code:
 ![Uploading image.png…]()
 the screenshot of the result window:
 ![Uploading image.png…]()
+HOW TO RUN THE CODE: once you run this code in the terminal you will directed towards another python generated window where the slideshow of images will be played, you just need to click on the "play slideshow" button present on the top of the slideshow window and then your image slideshow will start to play
